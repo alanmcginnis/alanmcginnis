@@ -1,5 +1,3 @@
-Here's your version using your resume content:
-
 👋 Hi, I'm Alan McGinnis (He/Him/His). I am a Results-driven Technology Professional with over a decade of experience bridging technical solutions with business needs, specializing in digital platform optimization, client success, and cross-functional team leadership. I really enjoy solving complex business challenges through strategic technology implementations and process optimization.
 
 About Me 🧗
