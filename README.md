@@ -1,15 +1,24 @@
-👋 Hi, I'm Alan McGinnis (He/Him/His). I am a Results-driven Technology Professional with over a decade of experience bridging technical solutions with business needs, specializing in digital platform optimization, client success, and cross-functional team leadership. I really enjoy solving complex business challenges through strategic technology implementations and process optimization.
+# Hey there! 👋 I'm Alan
 
-About Me 🧗
-Proven leader with a track record of scaling consulting practices, mentoring teams, and driving measurable business outcomes. Passionate about helping organizations maximize their technology investments and fostering collaborative partnerships between technical and business stakeholders. I believe the best solutions come from understanding both the technical possibilities and business objectives.
+## Some Developer Dad Jokes You 🤦‍♂️
 
-Technical Skills 💻
-- **Platforms:** Shopify, BigCommerce, Magento, WordPress, Content Management Systems
-- **Analytics & Optimization:** Google Analytics, Adobe Analytics, A/B Testing, Tag Management Systems
-- **Tools & Technologies:** API Integrations, System Implementations, Performance Monitoring
-- **Core Competencies:** Client Relationship Management, Process Optimization, Technical Project Management
+- **Q:** Why do programmers prefer dark mode?  
+  **A:** Because light attracts bugs!
 
-Currently Exploring 🔬
-- Digital experience strategy
-- Conversion optimization methodologies
-- Emerging e-commerce platforms
+- **Q:** How do you comfort a JavaScript bug?  
+  **A:** You console it!
+
+- **Q:** Why do Java developers wear glasses?  
+  **A:** Because they don't C#!
+
+- **Q:** Why did the programmer quit his job?  
+  **A:** Because he didn't get arrays!
+
+- **Q:** What do you call 8 hobbits?  
+  **A:** A hobbyte!
+
+- **Q:** What's the object-oriented way to become wealthy?  
+  **A:** Inheritance!
+---
+
+📫 Connect: [LinkedIn](https://linkedin.com/in/alanmcginnis) / [🌐 Website](https://alanmcginnis.com)
