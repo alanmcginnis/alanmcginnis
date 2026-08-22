@@ -1,1 +1,1 @@
-![Art](https://res.cloudinary.com/dszumgqlp/image/upload/v1764965373/Canvas-Sketch/2025.12.05-12.06.08.png)
+![Swift Moment Swallow](https://s3-public-links.s3.us-west-2.amazonaws.com/swift_moment_swallow.webp)
